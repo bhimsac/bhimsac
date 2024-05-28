@@ -1,4 +1,4 @@
-## Hi there. This is Sachin Bhimbar. 👋
+## Hi there. This is Sachin Bhimbar. Nice to meet you. 👋
 
 <!--
 **bhimsac/bhimsac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
